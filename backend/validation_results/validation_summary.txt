@@ -1,0 +1,28 @@
+ENHANCED VALIDATION SUMMARY
+==========================
+
+ML Model Accuracy: 0.9512
+Rule-based Accuracy: 0.9461
+Hybrid Approach Accuracy: 0.9541
+Best Hybrid Ratio: 0.70
+Hybrid Improvement: 0.29%
+
+Accuracy by Health Condition:
+  healthy: 0.9739
+  anxiety: 0.9935
+  copd: 0.9804
+  heart_disease: 0.9351
+  athlete: 0.9868
+  depression: 0.9934
+  asthma: 0.9868
+  diabetes: 0.9739
+  sleep_apnea: 0.9803
+
+ML Advantage Scenarios Analysis:
+--------------------------------
+
+Subtle HR-SpO2 Mismatch:
+  ML accuracy: 0.0000
+  Rule accuracy: 0.0000
+  ML advantage: 0.0000
+  ✗ ML did not outperform rules
