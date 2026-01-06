@@ -53,14 +53,9 @@ A comprehensive report describing:
 - Backend architecture
 - AI model design and evaluation
 
-can be found here:
-
-👉 **LifeSignal Final Report (PDF)**  
 *(See Appendix for iOS and WatchOS UI screenshots)*
 
 ---
-
-## ⚠️ Notes
 
 - This repository reflects an **academic prototype** and includes exploratory code, experiments, and model testing.
 - The project emphasizes **product design and system integration** rather than production deployment.
